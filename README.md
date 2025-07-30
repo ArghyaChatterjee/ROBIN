@@ -59,10 +59,6 @@ pip3 install --upgrade pip setuptools wheel scikit-build-core ninja cmake build
 
 And then, just run in out-of-the-box (the `--verbose` option is only for tracking purposes):
 
-```bash
-pip3 install "git+https://github.com/MIT-SPARK/ROBIN.git#subdirectory=python" --verbose
-```
-
 Using this repository, you can run the following command:
 
 ```bash
